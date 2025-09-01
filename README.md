@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Jolaoso Jephthah Oluwaseun
 
-<!--
-**Doublejay0639/Doublejay0639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student at FUNAAB  
+💻 Learning Python & Web Development (JS & PHP)  
+🚀 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently learning: JavaScript (DOM), PHP basics
+- 🛠️ Recent mini-projects: To-Do List (console), Calculator, Bank Account Simulator
+- 📚 Open to internships, collabs, and mentorship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python (functions, OOP, CLI apps)
+- HTML • CSS • JavaScript (learning) • PHP (beginner)
+
+## Goals (2025)
+- Build 5+ small web projects
+- Deploy my portfolio & an e-commerce demo
+- Start contributing to open source
+
+## Find Me
+- Email: oluwaseunjolaoso28@gmail.com
+
+---
+*Thanks for visiting!*
